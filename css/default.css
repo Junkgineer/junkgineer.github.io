@@ -1,0 +1,8 @@
+body {
+    color: gainsboro;
+    background-color: rgb(31,31,31);
+    font-family: coda;
+}
+.center {
+    margin-left: 10%;
+}
